@@ -1,4 +1,4 @@
-public class airlineList {
+public class AirlineList {
     private airline head;
     private airline tail;
 
