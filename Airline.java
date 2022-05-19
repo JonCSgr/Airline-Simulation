@@ -1,4 +1,4 @@
-public class airline {
+public class Airline {
     private int aid;
     private airplaneList airplanes;
     private airline next;
