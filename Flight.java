@@ -1,4 +1,4 @@
-public class flight {
+public class Flight {
     int pld;
     int depart_time;
     flight next;
