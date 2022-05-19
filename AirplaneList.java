@@ -1,4 +1,4 @@
-public class airplaneList {
+public class AirplaneList {
     private airplane head;
 
     public airplane getHead(){
