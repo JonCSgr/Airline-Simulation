@@ -1,4 +1,4 @@
-public class flightList {
+public class FlightList {
     private flight head;
     private flight sentinel;
     public flight getHead() {
