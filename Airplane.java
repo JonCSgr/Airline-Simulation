@@ -1,4 +1,4 @@
-public class airplane {
+public class Airplane {
     private int pid;
     private int dest;
     private int depart_time;
